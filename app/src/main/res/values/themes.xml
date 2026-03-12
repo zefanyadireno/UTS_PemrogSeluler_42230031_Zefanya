@@ -2,9 +2,9 @@
 <resources>
 
     <style name="Theme.ProjekUTSGeneratorNilai" parent="Theme.AppCompat.Light.DarkActionBar">
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryDark">@color/purple_700</item>
-        <item name="colorAccent">@color/teal_200</item>
+        <item name="colorPrimary">@color/gray_primary</item>
+        <item name="colorPrimaryDark">@color/gray_dark</item>
+        <item name="colorAccent">@color/gray_light</item>
     </style>
 
 </resources>

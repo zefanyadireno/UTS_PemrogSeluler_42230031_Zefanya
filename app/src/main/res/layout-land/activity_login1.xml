@@ -9,13 +9,13 @@
 
     <EditText
         android:id="@+id/etNamaDosen"
-        android:hint="Masukan Nama"
+        android:hint="Nama Dosen"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
     <Button
         android:id="@+id/btnMasuk"
-        android:text="LOGIN"
+        android:text="MASUK"
         android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
